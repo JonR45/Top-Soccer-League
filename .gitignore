@@ -1,0 +1,20 @@
+# admin files
+.DS_store
+
+# checkpoints
+/.ipynb_checkpoints
+/Data/Final/.ipynb_checkpoints
+/Data/Interim/.ipynb_checkpoints
+
+# data
+
+
+# folders
+/with_notes/*
+/Notebooks/Not_used/*
+
+# notebooks
+
+
+
+# other
