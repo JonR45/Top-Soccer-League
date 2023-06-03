@@ -1,4 +1,4 @@
-# Predicting if a soccer player plays in one of Europe's top 5 leagues
+# Predicting if a soccer player plays in Europe's top 5 leagues
 The aim of this mini-project was to create a model that could predict if an outfield soccer played in one of the top 5 European leagues based on physical and technical data from the FIFA 23 daataset.
 
 # Overview
@@ -9,13 +9,12 @@ The aim of this mini-project was to create a model that could predict if an outf
 # Programming and Algorithms
 **Language:** Python (version 3.10)
 
-
 **Packages:** pandas, numpy, matplotlib, sklearn, XGBoost, shap, imblearn, Optuna 
-
 
 **Techniques:**
 - Balancing the dataset with SMOTE
 - Optuna and RandomizedSarchCV for hyperparameter tuning
+
 
 # Next steps
 - This project could be develolped further by trying other classifiers and comparing their performance.
@@ -28,5 +27,6 @@ The aim of this mini-project was to create a model that could predict if an outf
 # Data
 - The data used for this project was the [FIFA 23 Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset) avaialble on Kaggle.
 
+
 # License
-This project is licensed under the terms of the MIT License. See the [LICENSE.txt]() file for details.
+This project is licensed under the terms of the MIT License. See the LICENSE.txt file for details.
