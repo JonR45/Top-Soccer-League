@@ -4,30 +4,30 @@ The aim of this mini-project was to create a model that could predict if an outf
 # Overview
 * The FIFA dataset contains details of soccer players' physical characteristics and technical capabilities.
 
-![dataset]()
+![dataset](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/Dataset.png)
 
 * There are 5 leagues in Europe generally regarded as the highest level of competition; these leagues are: the English Premier League (EPL), the Italian Serie A, the Spanish La Liga, the German Bundesliga, and the French Ligue 1.
 * The project used XGBoost to create a model that predicted, based on physical and technical ratings, whether a soccer player plays for a team in one of the top 5 European leagues.
 
-# Programming and Algorithms
+# Langauges and Packages
 **Language:** Python (version 3.10)
 
 
 **Packages:** pandas, numpy, matplotlib, sklearn, XGBoost, shap, imblearn, Optuna
 
-**Techniques:**
-- Balancing the dataset with SMOTE
+# Techniques
+### Balancing the dataset with SMOTE
 
 ![balance_pre_smote](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/training_data_pre-balance.jpg)
 
 ![balance_post_smote](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/training_data_post-balance.jpg)
 
 
-- Shapley values for feature importance
+### Shapley values for feature importance
 
 ![shap_values](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/shap_summary_plot.jpg)
 
-- Optuna and RandomizedSearchCV for hyperparameter tuning
+### Optuna and RandomizedSearchCV for hyperparameter tuning
 
 ![hyperparameter_importance](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/Hyperparameter_importance.png)
 
