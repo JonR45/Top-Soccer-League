@@ -4,7 +4,7 @@ The aim of this mini-project was to create a model that could predict if an outf
 # Overview
 * The FIFA dataset contains details of soccer players' physical characteristics and technical capabilities.
 
-![dataset](../Images/dataset.png)
+![dataset](./Images/dataset.png)
 
 * There are 5 leagues in Europe generally regarded as the highest level of competition; these leagues are: the English Premier League (EPL), the Italian Serie A, the Spanish La Liga, the German Bundesliga, and the French Ligue 1.
 * The project used XGBoost to create a model that predicted, based on physical and technical ratings, whether a soccer player plays for a team in one of the top 5 European leagues.
