@@ -38,7 +38,7 @@ The aim of this mini-project was to create a model that could predict if an outf
 - This project could be developed further by trying other classifiers and comparing their performance.
 
 # Data
-- The data used for this project was the [FIFA 23 Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset){:target="_blank" rel="noopener noreferrer"} available on Kaggle.
+- The data used for this project was the <a href="https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset" target="_blank">FIFA 23 dataset</a> available on Kaggle.
 
 # How to Install and Run the Project
 - The project can be run provided the relevant packages are installed (see _requirements.txt_)
