@@ -15,7 +15,6 @@ The aim of this mini-project was to create a model that could predict if an outf
 
 **Packages:** pandas, numpy, matplotlib, sklearn, XGBoost, shap, imblearn, Optuna
 
-
 **Techniques:**
 - Balancing the dataset with SMOTE
 ![balance_pre_smote](../Images/training_data_pre-balance.jpg)
@@ -44,4 +43,4 @@ The aim of this mini-project was to create a model that could predict if an outf
 - The project can be run provided the relevant packages are installed (see _requirements.txt_)
 
 # License
-This project is licensed under the terms of the MIT License. See the [LICENSE.txt]() file for details.
+This project is licensed under the terms of the MIT License. See the LICENSE.txt file for details.
