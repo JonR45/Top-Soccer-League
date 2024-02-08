@@ -15,7 +15,7 @@ The aim of this mini-project was to create a model that could predict if an outf
 
 **Packages:** pandas, numpy, matplotlib, sklearn, XGBoost, shap, imblearn, Optuna
 
-# Techniques
+# Visuals
 ### Balancing the dataset with SMOTE
 
 ![balance_pre_smote](https://github.com/JonR45/Top-Soccer-League/blob/main/Images/training_data_pre-balance.jpg)
@@ -39,9 +39,6 @@ The aim of this mini-project was to create a model that could predict if an outf
 
 # Data
 - The data used for this project was the <a href="https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset" target="_blank">FIFA 23 dataset</a> available on Kaggle.
-
-# How to Install and Run the Project
-- The project can be run provided the relevant packages are installed (see _requirements.txt_)
 
 # License
 This project is licensed under the terms of the MIT License. See the LICENSE.txt file for details.
